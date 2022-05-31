@@ -1,1 +1,0 @@
-# sanchoi0310.github.io

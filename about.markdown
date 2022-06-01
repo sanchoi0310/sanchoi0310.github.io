@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+I'm an elementary school student in South Korea. I'm interested in programming, astronomy, physics, and calculus.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My StackOverflow account:
+[cout Hello world endl](https://stackoverflow.com/users/15543476/cout-hello-world-endl)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My Github account:
+[sanchoi0310](https://github.com/sanchoi0310)
 
 
-[jekyll-organization]: https://github.com/jekyll
